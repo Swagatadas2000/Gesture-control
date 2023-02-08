@@ -1,0 +1,11 @@
+pyttsx3==2.90
+SpeechRecognition==3.9.0 
+pynput==1.7.6
+pyautogui==0.9.53
+wikipedia==1.4.0
+opencv-python==4.7.0.68 
+mediapipe==0.9.1.0
+comtypes==1.1.14
+pycaw==20220416 
+screen-brightness-control==0.18.0 
+eel==0.15.1
